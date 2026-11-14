@@ -1,0 +1,11 @@
+# 대회 데이터와 예측 결과는 올리지 않음 (반출 금지)
+data/
+battery_data_light/
+*.csv
+*.png
+*.jpg
+__pycache__/
+.ipynb_checkpoints/
+# weights/model.joblib은 반드시 포함
+!weights/
+!weights/model.joblib
